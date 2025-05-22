@@ -1,3 +1,4 @@
+# Trabajo
 # Dataset de Clientes de Centro Comercial
 
 Este repositorio contiene un dataset de clientes de un centro comercial, utilizado para realizar un análisis de segmentación (clustering). El objetivo principal del análisis fue identificar grupos de clientes con comportamientos de compra similares para poder dirigir estrategias de marketing personalizadas.
